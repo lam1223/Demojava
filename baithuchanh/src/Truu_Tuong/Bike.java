@@ -1,4 +1,4 @@
-package TruuTuong;
+package Truu_Tuong;
 
 public abstract class Bike {
     abstract void Run();

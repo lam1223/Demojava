@@ -1,4 +1,4 @@
-package TruuTuong;
+package Truu_Tuong;
 
 interface printable {
     void print();
