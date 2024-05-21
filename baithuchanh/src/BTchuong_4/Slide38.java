@@ -18,7 +18,7 @@ public class Slide38 {
         showList(listA);
 
         System.out.println("\nvi du su dung phuong thuc retainAll()");
-        System.out.println("----------------------------------------");
+        System.out.println("---------------------------------------");
 
         LinkedList<String> listB = new LinkedList<String>();
         listB.add("Java");
@@ -27,7 +27,7 @@ public class Slide38 {
         showList(listA);
 
         System.out.println("\nvi du su dung phuong thuc removeAll()");
-        System.out.println("----------------------------------------");
+        System.out.println("---------------------------------------");
 
         list.removeAll(listB);
         System.out.print("list: ");
