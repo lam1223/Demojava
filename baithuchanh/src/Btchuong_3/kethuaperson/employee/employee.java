@@ -13,7 +13,7 @@ public class employee extends person {
     public void xuatTen(){
          System.out.println(" ==== " + Tencv + " ===== " );
     }
-    public void nhapThongTinnv(){
+    public void nhapThongTinnv() {
          Scanner sc = new Scanner(System.in);
          System.out.print("nhap ma nhan vien : ");
          manv = sc.nextLine();
